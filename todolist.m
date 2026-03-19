@@ -4,13 +4,9 @@
 - **Company Name:** Couleur Bois Abidjan
 - **Directory:** couleur_bois_abidjan
 - **Address/Contact:** 
-  - Artisan, Créateur & Fabriquant é Abidjan ???
-  - ??? Mobilier & Décoration ?? Architecture d'Intérieur
-  - Passez nous voir en boutique !
-  - ??Cap Sud & Hétel Ivoire : Lun-Dim 9h-19h30
-  - ??Biétry : Lun-Sam 8h-12h / 14h30-18h
-  - ?? +225 07 77 67 33 91
-- **Description:** https://www.facebook.com/couleurboisabidjan
+  - Abidjan, Côte d'Ivoire
+  - +225 272 135 147 4
+- **Description::** https://www.facebook.com/couleurboisabidjan
 - **Social Media:** 
 - **Logo Asset:** _To be sourced/created_
 

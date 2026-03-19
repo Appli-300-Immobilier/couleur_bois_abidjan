@@ -53,7 +53,7 @@ Accès Admin direct : `localhost:5173/admin` (après connexion)
 
 **Couleur Bois Abidjan**
 * **Localisation :** Abidjan, Côte d'Ivoire
-* **Contact :** +225 07 77 67 33 91
+* **Contact :** +225 272 135 147 4
 * **Email :** contact@couleurboisabidjan.cm
 * **Social :** [Facebook](https://facebook.com) | [WhatsApp](https://wa.me/2250777673391)
 

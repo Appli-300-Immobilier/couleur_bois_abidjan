@@ -25,8 +25,8 @@ const Contact = () => {
               </div>
               <div>
                 <h3 className="font-bold text-secondary-dark mb-1">Téléphone & WhatsApp</h3>
-                <p className="text-sm text-secondary">+225 07 XX XX XX XX</p>
-                <a href="https://wa.me/2250777673391" target="_blank" rel="noopener noreferrer" className="mt-2 inline-flex items-center text-xs bg-green-500 text-white px-3 py-1 rounded-full hover:bg-green-600 transition-colors"><MessageCircle className="w-3 h-3 mr-1" /> WhatsApp</a>
+                <p className="text-sm text-secondary">+225 272 135 147 4</p>
+                <a href="https://wa.me/2252721351474" target="_blank" rel="noopener noreferrer" className="mt-2 inline-flex items-center text-xs bg-green-500 text-white px-3 py-1 rounded-full hover:bg-green-600 transition-colors"><MessageCircle className="w-3 h-3 mr-1" /> WhatsApp</a>
                 <p className="text-xs text-primary font-medium mt-1">Lundi - Samedi : 8h00 - 18h00</p>
               </div>
             </div>

@@ -2,8 +2,8 @@
 // Images générées dynamiquement par mots-clés pour assurer pertinence et unicité
 
 const SECTOR_KEYWORDS = {
-  'Nos Services': 'maison,moderne,appartement,villa,de,luxe,immobilier,résidentiel',
-  'Opportunités': 'maison,moderne,appartement'
+  'Nos Services': 'mobilier moderne,design intérieur,canapé,chaise en bois,salon',
+  'Opportunités': 'mobilier moderne,design intérieur'
 };
 
 const sectorKeys = Object.keys(SECTOR_KEYWORDS);
